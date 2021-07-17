@@ -1,0 +1,13 @@
+.writting {
+	font-family: 'Brush Script MT', cursive; 
+}
+.bg-all{
+ background: #23074d;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #cc5333, #23074d);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #cc5333, #23074d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+overflow-x: hidden;
+}
+
+.adjust {
+	margin-top: 150px;
+}
